@@ -1,0 +1,26 @@
+{
+  "uuid": "55b9e31b-7b3f-4a25-ac75-5f167f665830",
+  "shortName": "PebbleFace",
+  "longName": "PebbleFace",
+  "companyName": "PJkeeh",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+	{
+     "type": "font",
+     "name": "FONT_PERFECT_DOS_20",
+     "file": "perfect-dos-vga.ttf",
+     "compatibility": "2.7"
+    }
+  ]
+  }
+}
